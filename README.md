@@ -101,4 +101,6 @@ UUID方案
 
 <pre>
 Leaf方案
+      Leaf-segment数据库方案
+      双buffer方案
 </pre>
